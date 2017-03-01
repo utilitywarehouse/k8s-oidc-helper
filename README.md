@@ -12,6 +12,7 @@ as the Identity Provider.
 export CALLBACK_URL
 export CLIENT_ID
 export CLIENT_SECRET
+export HOSTED_DOMAIN
 ```
 
 ## License
