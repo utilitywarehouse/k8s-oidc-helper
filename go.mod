@@ -1,3 +1,3 @@
 module github.com/utilitywarehouse/k8s-oidc-helper
 
-go 1.20
+go 1.26.5
